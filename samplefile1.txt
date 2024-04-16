@@ -1,3 +1,3 @@
 This is my first file
 This line is added for check git revert after commit 1
-This line is inserted to check the difference in samplefile1
+Line is inserted to check the difference in samplefile1

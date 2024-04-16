@@ -1,2 +1,2 @@
 This is my second file
-This line is inserted to check the difference in samplefile2
+It is inserted to check the difference in samplefile2
